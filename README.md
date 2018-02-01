@@ -1,6 +1,10 @@
 # TCPDF
 *PHP PDF Library*
 
+## About this fork
+
+This fork aims at maintaining TCPDF for our own use. Feel free to use it but it comes with no warranty nor support.
+
 [![Donate via PayPal](https://img.shields.io/badge/donate-paypal-87ceeb.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=GBP&business=paypal@tecnick.com&item_name=donation%20for%20TCPDF%20project)
 *Please consider supporting this project by making a donation via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=GBP&business=paypal@tecnick.com&item_name=donation%20for%20TCPDF%20project)*
 

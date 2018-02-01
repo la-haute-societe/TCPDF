@@ -1,3 +1,6 @@
+6.2.14 (2018-02-01)
+	- PDF/A-1b compliance was improved to pass some validations (Acrobat preflight & veraPDF).
+
 6.2.13 (2016-06-10)
 	- IMPORTANT: A new version of this library is under development at https://github.com/tecnickcom/tc-lib-pdf and as a consequence this version will not receive any additional development or support. This version should be considered obsolete, new projects should use the new version as soon it will become stable.
 
@@ -92,7 +95,7 @@
 	- Bug item #956 "Monospaced fonts are not alignd at the baseline" was fixed.
 	- Bug item #964 "Problem when changing font size" was fixed.
 	- Bug item #969 "ImageSVG with radialGradient problem" was fixed.
-	- sRGB.icc file was replaced with the one from the Debian package icc-profiles-free (2.0.1+dfsg-1) 
+	- sRGB.icc file was replaced with the one from the Debian package icc-profiles-free (2.0.1+dfsg-1)
 
 6.0.091 (2014-08-13)
 	- Issue #325"Division by zero when css fontsize equals 0" was fixed.
@@ -101,7 +104,7 @@
 	- Starting from this version TCPDF is also available in GitHub at https://github.com/tecnickcom/TCPDF
 	- Function getmypid() was removed for better compatibility with shared hosting environments.
 	- Support for pulling SVG stroke opacity value from RGBa color was mergeg [adf006].
-	- Bug item #951 "HTML Table within TCPDF columns doesnt flow correctly on page break ..." was fixed. 
+	- Bug item #951 "HTML Table within TCPDF columns doesnt flow correctly on page break ..." was fixed.
 
 6.0.089 (2014-07-16)
 	- Bug item #948 "bottom line of rowspan cell not work correctly" was fixed.

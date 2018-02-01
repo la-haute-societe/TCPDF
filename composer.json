@@ -1,17 +1,22 @@
 {
-	"name": "tecnickcom/tcpdf",
-	"version": "6.2.13",
+	"name": "la-haute-societe/tcpdf",
+	"version": "6.2.14",
 	"homepage": "http://www.tcpdf.org/",
 	"type": "library",
 	"description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
 	"keywords": ["PDF","tcpdf","PDFD32000-2008","qrcode","datamatrix","pdf417","barcodes"],
-	"license": "LGPLv3",
+	"license": "LGPL-3.0-only",
 	"authors": [
-	{
-		"name": "Nicola Asuni",
-		"email": "info@tecnick.com",
-		"homepage": "http://nicolaasuni.tecnick.com"
-	}
+		{
+			"name": "Nicola Asuni",
+			"email": "info@tecnick.com",
+			"homepage": "http://nicolaasuni.tecnick.com"
+		},
+		{
+			"name": "La Haute Société",
+			"email": "tech@lahautesociete.com",
+			"homepage": "https://www.lahautesociete.com"
+		}
 	],
 	"require": {
 		"php": ">=5.3.0"
