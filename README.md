@@ -10,7 +10,7 @@ This fork aims at maintaining TCPDF for our own use. Feel free to use it but it 
 
 * **category**    Library
 * **author**      Nicola Asuni <info@tecnick.com>
-* **copyright**   2002-2016 Nicola Asuni - Tecnick.com LTD
+* **copyright**   2002-2018 Nicola Asuni - Tecnick.com LTD
 * **license**     http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE.TXT)
 * **link**        http://www.tcpdf.org
 * **source**      https://github.com/tecnickcom/TCPDF
